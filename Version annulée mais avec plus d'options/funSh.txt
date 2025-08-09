@@ -1,0 +1,3 @@
+ 1 echo pomme
+2 echo poire
+3 meniu

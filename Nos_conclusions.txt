@@ -1,0 +1,7 @@
+Clarembaux Robin 1TM2
+Nathan Brico 1TM2
+Gaspard Munguia Coca 1TM2
+
+
+
+Ce projet nous a offert l'opportunité de nous initier au langage C et de découvrir sa syntaxe, déjà partiellement familière grâce à notre maîtrise de JavaScript. Nous avons exploré des concepts tels que le fork et les pipes, et appris à utiliser le compilateur. En cours de route, nous avons également acquis des compétences précieuses en gestion des erreurs de l'utilisateur pour éviter les plantages du programme. Ce travail nous a procuré beaucoup de satisfaction et nous sommes désormais impatients de nous attaquer aux prochains projets en C dans le cadre de notre cursus.
