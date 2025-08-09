@@ -1,3 +1,23 @@
+OLD VERSION BETTER BUT WITH F FONCTION
+___               __
+|__  |  | |\ |    /__` |__|
+|    \__/ | \|    .__/ |  |  Scripts Editor & Runner
+
+
+
+Utilisez ./1 --help au lancement pour afficher l'aide
+
+entrez une commande, elle sera insrite dans le fichier 'funSh.txt' !
+
+(pour sortir écrire 'exit')
+(pour afficher le menu 'menu')
+
+commande numéro 4 :
+
+
+
+VERSION WITEOUT F FONCTION
+
      ___               __       
     |__  |  | |\ |    /__` |__| 
 (un)|    \__/ | \|    .__/ |  |  Light Scripts Editor & Runner without fopen, fclose and others !
